@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: newspoon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-01 20:53+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <yofox2008@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: D:\\Program Files\\PHPnow-1.5.4\\htdocs\\wordpress\\wp-content\\themes\\wp-newspoon2\\languages\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:8
+#: templates/guestbook-comments.php:8
+msgid "Enter your password to view comments."
+msgstr "请输入密码再查看评论内容."
+
+#: comments.php:21
+msgid "Comments"
+msgstr "评论"
+
+#: comments.php:23
+msgid "Trackbacks"
+msgstr "引用通告"
+
+#: comments.php:26
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: comments.php:29
+msgid "Trackback"
+msgstr "发起引用"
+
+#: comments.php:54
+msgid "Comment pages"
+msgstr ""
+
+#: comments.php:64
+#: templates/guestbook-comments.php:42
+msgid "No comments yet."
+msgstr "目前还没有任何评论."
+
+#: comments.php:82
+msgid "No trackback yet."
+msgstr "目前还没有任何Trackbacks和Pingbacks."
+
+#: comments.php:94
+#: templates/guestbook-comments.php:53
+msgid "Comments are closed."
+msgstr "本文的评论功能被关闭了."
+
+#: comments.php:99
+#: templates/guestbook-comments.php:58
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "您必须在 <a href=\"%s\">登录</a> 后才能发布评论."
+
+#: comments.php:105
+msgid "Leave a Reply."
+msgstr "发表评论"
+
+#: comments.php:105
+#, php-format
+msgid "Leave a Reply to %s."
+msgstr "发表评论"
+
+#: comments.php:106
+#: templates/guestbook-comments.php:65
+msgid "Click here to cancel reply."
+msgstr "点击取消评论"
+
+#: comments.php:113
+#: templates/guestbook-comments.php:72
+msgid "Logged in as"
+msgstr "登录帐号:"
+
+#: comments.php:113
+#: templates/guestbook-comments.php:72
+msgid "Log out of this account"
+msgstr "退出登录"
+
+#: comments.php:113
+#: templates/guestbook-comments.php:72
+msgid "Logout &raquo;"
+msgstr "登出 &raquo;"
+
+#: comments.php:118
+#: templates/guestbook-comments.php:77
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr "欢迎回来, <strong>%s</strong>"
+
+#: comments.php:120
+#: templates/guestbook-comments.php:79
+msgid "Change &raquo;"
+msgstr "更改 &raquo;"
+
+#: comments.php:123
+#: templates/guestbook-comments.php:82
+msgid "Close &raquo;"
+msgstr "隐藏 &raquo;"
+
+#: comments.php:133
+#: templates/guestbook-comments.php:92
+msgid "Name"
+msgstr "昵称"
+
+#: comments.php:133
+#: comments.php:137
+#: templates/guestbook-comments.php:92
+#: templates/guestbook-comments.php:96
+msgid "(required)"
+msgstr "(必填)"
+
+#: comments.php:137
+#: templates/guestbook-comments.php:96
+msgid "E-Mail (will not be published)"
+msgstr "电子邮箱 (我们会为您保密)"
+
+#: comments.php:141
+#: templates/guestbook-comments.php:100
+msgid "Website"
+msgstr "网址"
+
+#: comments.php:161
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: comments.php:165
+#: templates/guestbook-comments.php:124
+msgid "Subscribe to comments feed"
+msgstr "订阅评论"
+
+#: functions.php:116
+#: functions.php:125
+msgid "Current Theme Options"
+msgstr "当前主题选项"
+
+#: functions.php:130
+msgid "Meta"
+msgstr "Meta"
+
+#: functions.php:132
+msgid "Description:"
+msgstr "描述："
+
+#: functions.php:136
+msgid "Keywords:"
+msgstr "关键字："
+
+#: functions.php:136
+msgid "( Separate keywords with commas )"
+msgstr "( 以逗号分隔关键字 )"
+
+#: functions.php:148
+msgid "Notice"
+msgstr "公告栏"
+
+#: functions.php:150
+#: functions.php:174
+msgid "HTML enabled"
+msgstr "HTML 可用"
+
+#: functions.php:156
+msgid "This notice bar will display at the top of posts on homepage."
+msgstr "公告栏显示在首页。内容添加格式为列表格式：li"
+
+#: functions.php:172
+msgid "Showcase"
+msgstr "橱窗"
+
+#: functions.php:179
+msgid "This showcase will display at the top of sidebar out of single page."
+msgstr "这个橱窗栏1是否显示在首页"
+
+#: functions.php:181
+#: functions.php:211
+msgid "Who can see?"
+msgstr "谁可以看到?"
+
+#: functions.php:184
+#: functions.php:214
+msgid "Registered Users"
+msgstr "注册用户"
+
+#: functions.php:188
+#: functions.php:218
+msgid "Commentators"
+msgstr "评论者"
+
+#: functions.php:192
+#: functions.php:222
+msgid "Visitors"
+msgstr "游客"
+
+#: functions.php:197
+#: functions.php:227
+msgid "Title:"
+msgstr "标题:"
+
+#: functions.php:209
+msgid "This showcase will display at the top of single page sidebar."
+msgstr "这个橱窗将会显示在文章页面侧边栏顶部."
+
+#: functions.php:245
+msgid "Feed"
+msgstr "订阅"
+
+#: functions.php:249
+msgid "Custom feed."
+msgstr "自定义 Feed"
+
+#: functions.php:252
+msgid "URL:"
+msgstr "网址"
+
+#: functions.php:256
+msgid "Show the feed reader list when mouse over on feed button."
+msgstr "在订阅按钮上显示下拉菜单"
+
+#: functions.php:264
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: functions.php:447
+msgid "floor"
+msgstr "楼"
+
+#: functions.php:453
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:454
+msgid "Login to reply."
+msgstr ""
+
+#: functions.php:464
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:466
+msgid "Advanced edit"
+msgstr "高级编辑"
+
+#: functions.php:470
+#: single-taotao.php:13
+msgid "Post:"
+msgstr ""
+
+#: functions.php:473
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: header.php:37
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - 所有文章"
+
+#: header.php:38
+msgid "RSS 2.0 - all comments"
+msgstr "RSS 2.0 - 所有评论"
+
+#: page.php:12
+#: single-normal.php:39
+#: single-taotao.php:20
+#: templates/archive-list.php:50
+msgid "Sorry, no posts matched your criteria."
+msgstr "对不起, 不存在相应的文章."
+
+#: single-normal.php:14
+msgid "Category:"
+msgstr ""
+
+#: single-normal.php:15
+msgid "View:"
+msgstr ""
+
+#: single-normal.php:16
+msgid "Author:"
+msgstr ""
+
+#: single-taotao.php:7
+msgid "what is the admin to taotao?"
+msgstr "这家伙都唠叨了些什么？"
+
+#: templates/archive-list.php:10
+#: templates/archive-list.php:16
+#: templates/archive-list.php:19
+#: templates/archive-list.php:22
+#, php-format
+msgid "Archive: %1$s"
+msgstr "存档: %1$s"
+
+#: templates/archive-list.php:13
+#, php-format
+msgid "Posts Tagged: %1$s"
+msgstr "标签: %1$s"
+
+#: templates/archive-list.php:16
+msgid "F jS, Y"
+msgstr "Y-n-j"
+
+#: templates/archive-list.php:19
+msgid "F, Y"
+msgstr "Y-n"
+
+#: templates/archive-list.php:22
+msgid "Y"
+msgstr "Y"
+
+#: templates/archive-list.php:25
+msgid "Author Archive"
+msgstr "作者存档"
+
+#: templates/archive-list.php:28
+#, fuzzy
+msgid "Blog Archives"
+msgstr "存档"
+
+#: templates/archive-list.php:34
+msgid "the views"
+msgstr "点击数"
+
+#: templates/archive-list.php:35
+msgid "the num"
+msgstr "序号"
+
+#: templates/archive-list.php:36
+msgid "the title"
+msgstr "文章标题"
+
+#: templates/cats-list.php:2
+msgid "Categories"
+msgstr "日志分类"
+
+#: templates/guestbook-comments.php:21
+msgid "There is"
+msgstr "已经有"
+
+#: templates/guestbook-comments.php:21
+msgid "The people who leave a comment to guestbook"
+msgstr "个网友发表了留言"
+
+#: templates/guestbook-comments.php:64
+#: templates/guestbook-comments.php:120
+msgid "Leave a comment to guestbook"
+msgstr "发表留言"
+
+#: templates/header-content.php:21
+msgid "Home"
+msgstr "首页"
+
+#: templates/link-list.php:2
+msgid "Links"
+msgstr "左邻右舍"
+
+#: templates/popular-posts.php:2
+msgid "Mostview"
+msgstr "热门文章"
+
+#: templates/recent-comments.php:2
+msgid "Recent Comment"
+msgstr "最新评论"
+
+#: templates/recent-posts.php:2
+msgid "Recent Posts"
+msgstr "最新日志"
+
+#: templates/taotao-comments.php:21
+msgid "The people who leave a comment to taotao"
+msgstr "个网友发表了评论"
+
+#: templates/taotao-list.php:7
+msgid "taotao"
+msgstr "我的唠叨"
+
+#: templates/taotao-list.php:18
+msgid "the-reply-taotao"
+msgstr "回复"
+
+#: templates/topic-list.php:22
+msgid "Read more..."
+msgstr "阅读全文..."
+
+#: templates/topic-list.php:26
+msgid "The comment (0)"
+msgstr "评论(0)"
+
+#: templates/topic-list.php:26
+msgid "The comment (1)"
+msgstr "评论(1)"
+
+#: templates/topic-list.php:26
+msgid "The comment (%)"
+msgstr "评论(%)"
+
+#~ msgid "Random"
+#~ msgstr "随机文章"
+
+#~ msgid "the reply to taotao (1)"
+#~ msgstr "回复(1)"
+
+#~ msgid "the reply to taotao (%)"
+#~ msgstr "回复(%)"
+
+#~ msgid "Comments guestbook"
+#~ msgstr "留言"
+
+#~ msgid "The link fo this topic:"
+#~ msgstr "本文永久链接地址:"
+
+#~ msgid "Cat:"
+#~ msgstr "分类:"
+
+#~ msgid "Tags: "
+#~ msgstr "标签:"
+
+#~ msgid "No comment"
+#~ msgstr "没有评论"
+
+#~ msgid "1 comment"
+#~ msgstr "1 条评论"
+
+#~ msgid "% comments"
+#~ msgstr "% 条评论"
+
+#~ msgid "New Post"
+#~ msgstr "发表日志"
+
+#~ msgid "RSS Feed"
+#~ msgstr "订阅"
+
+#~ msgid "Search"
+#~ msgstr "搜索"
+
+#~ msgid "Using google custom search engine."
+#~ msgstr "使用 Google 自定义搜索引擎"
+
+#~ msgid ""
+#~ "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of "
+#~ "<a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</"
+#~ "a>, and type the <code>value</code> here.<br/>For example: "
+#~ "<code>014782006753236413342:1ltfrybsbz4</code>"
+#~ msgstr ""
+#~ "在<a href=\"http://www.google.com/coop/cse/\">Google 自定义搜索引擎</a>的"
+#~ "<strong>搜索框代码</strong>中找到 <code>name=\"cx\"</code> , 并将同行中 "
+#~ "<code>value</code> 的值填写在输入框内.<br/>例如: "
+#~ "<code>014782006753236413342:1ltfrybsbz4</code>"
+
+#~ msgid "Posts"
+#~ msgstr "发表日志"
+
+#~ msgid "Show author on posts."
+#~ msgstr "在文章中显示作者信息."
+
+#~ msgid "Show categories on posts."
+#~ msgstr "在文章中显示分类信息."
+
+#~ msgid "Show tags on posts."
+#~ msgstr "在文章中显示标签信息."
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s%2$s"
+
+#, fuzzy
+#~ msgid "Blueweed Options"
+#~ msgstr "当前主题选项"
+
+#, fuzzy
+#~ msgid "Theme Description:"
+#~ msgstr "描述："
+
+#, fuzzy
+#~ msgid "Show notice."
+#~ msgstr "橱窗"
+
+#, fuzzy
+#~ msgid "( Separate author with commas )"
+#~ msgstr "( 以逗号分隔关键字 )"
+
+#, fuzzy
+#~ msgid ""
+#~ "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of "
+#~ "<a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</"
+#~ "a>, and type the <code>value</code> here.<br/>For example: "
+#~ "<code>016923013645410625752:v78cazfpyyu</code>"
+#~ msgstr ""
+#~ "在<a href=\"http://www.google.com/coop/cse/\">Google 自定义搜索引擎</a>的"
+#~ "<strong>搜索框代码</strong>中找到 <code>name=\"cx\"</code> , 并将同行中 "
+#~ "<code>value</code> 的值填写在输入框内.<br/>例如: "
+#~ "<code>014782006753236413342:1ltfrybsbz4</code>"
+
+#~ msgid "One comment"
+#~ msgstr "1 条评论"
+
+#~ msgid "This showcase will display at the top of sidebar."
+#~ msgstr "这个橱窗将会显示在侧边栏顶部."
+
+#~ msgid "Categories & Tags"
+#~ msgstr "分类和标签"
+
+#~ msgid "Show postname on posts."
+#~ msgstr "在文章中显示发布人信息."
+
+#~ msgid "Using custom feed."
+#~ msgstr "自定义 Feed"
+
+#~ msgid "Feed URL:"
+#~ msgstr "订阅地址"
+
+#~ msgid "H:i"
+#~ msgstr " H:i"
+
+#~ msgid "Subscribe with "
+#~ msgstr "订阅到"
+
+#~ msgid "Youdao"
+#~ msgstr "有道"
+
+#~ msgid "Xian Guo"
+#~ msgstr "鲜果"
+
+#~ msgid "Zhua Xia"
+#~ msgstr "抓虾"
+
+#~ msgid "Google"
+#~ msgstr "谷歌"
+
+#~ msgid "My Yahoo!"
+#~ msgstr "雅虎"
+
+#~ msgid "newsgator"
+#~ msgstr "Newsgator"
+
+#~ msgid "iNezha"
+#~ msgstr "哪咤"
+
+#~ msgid "green"
+#~ msgstr "绿色"
+
+#~ msgid "red"
+#~ msgstr "红色"
+
+#~ msgid "blue"
+#~ msgstr "蓝色"
+
+#~ msgid "You position:"
+#~ msgstr "您的位置:"
+
+#~ msgid "Goto homepage"
+#~ msgstr "转到首页"
+
+#~ msgid "Search Results"
+#~ msgstr "搜索结果"
+
+#~ msgid "Email feed."
+#~ msgstr "邮件 Feed."
+
+#~ msgid "Newer Entries"
+#~ msgstr "上一页"
+
+#~ msgid "Older Entries"
+#~ msgstr "下一页"
+
+#~ msgid "Change Layout:"
+#~ msgstr "个性布局:"
+
+#, fuzzy
+#~ msgid "Leave a comment (0)"
+#~ msgstr "发表评论"
+
+#~ msgid "Keyword: %1$s"
+#~ msgstr "关键字: %1$s"
+
+#~ msgid "You position"
+#~ msgstr "您的位置"
+
+#~ msgid "Manage"
+#~ msgstr "管理入口"
+
+#~ msgid "Quote"
+#~ msgstr "引用"
+
+#~ msgid "Talker"
+#~ msgstr "咸湿佬"
+
+#~ msgid "Welcome to 404 error page!"
+#~ msgstr "欢迎来到 404 页面"
+
+#~ msgid ""
+#~ "Welcome to this customized error page. You've reached this page because "
+#~ "you've clicked on a link that does not exist. This is probably our "
+#~ "fault... but instead of showing you the basic '404 Error' page that is "
+#~ "confusing and doesn't really explain anything, we've created this page to "
+#~ "explain what went wrong."
+#~ msgstr ""
+#~ "欢迎您的到来. 您会到达这个页面证明您刚刚点击了失效的链接. 当然, 也可能是我"
+#~ "们搞错了... 但与其向您展示一个混乱的, 没有任何说明的 404 出错页面, 我们创"
+#~ "建这个页面可以向您解释究竟出了些什么错."
+
+#~ msgid ""
+#~ "You can either (a) click on the 'back' button in your browser and try to "
+#~ "navigate through our site in a different direction, or (b) click on the "
+#~ "following link to go to homepage."
+#~ msgstr ""
+#~ "您现在可以 (a) 点击浏览器上的 \"返回\" 按钮并尝试通过其他方式进入我们的页"
+#~ "面, 或者 (b) 点击下方的链接转跳到网站的首页."
+
+#~ msgid "Back to homepage &raquo;"
+#~ msgstr "回到博客首页 &raquo;"
+
+#~ msgid "Archive for the &#8216;%1$s&#8217; Category"
+#~ msgstr "&#8216;%1$s&#8217; 分类的存档"
+
+#~ msgid "Goto comments"
+#~ msgstr "评论"
+
+#~ msgid "Top"
+#~ msgstr "置顶"
+
+#~ msgid "Copyright &copy; "
+#~ msgstr "版权所有 &copy; "
+
+#~ msgid ""
+#~ "Theme by <a href=\"http://www.neoease.com/\">mg12</a>. Valid <a href="
+#~ "\"http://validator.w3.org/check?uri=referer\">XHTML 1.1</a> and <a href="
+#~ "\"http://jigsaw.w3.org/css-validator/\">CSS 3</a>."
+#~ msgstr ""
+#~ "主题由 <a href=\"http://www.neoease.com/\">MG12</a> 提供, 通过 <a href="
+#~ "\"http://validator.w3.org/check?uri=referer\">XHTML 1.1</a> 和 <a href="
+#~ "\"http://jigsaw.w3.org/css-validator/\">CSS 3</a> 验证."
+
+#~ msgid "Switcher"
+#~ msgstr "切换搜索引擎"
+
+#~ msgid "Edit links"
+#~ msgstr "编辑链接"
+
+#~ msgid "Keyword: &#8216;%1$s&#8217;"
+#~ msgstr "关键字: &#8216;%1$s&#8217;"
+
+#~ msgid "Subscribe to this blog..."
+#~ msgstr "订阅这个博客的文章"
+
+#~ msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed"
+#~ msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> 订阅"
+
+#~ msgid "Subscribe to this blog via email..."
+#~ msgstr "通过电子邮件订阅这个博客的文章"
+
+#~ msgid "Email feed"
+#~ msgstr "邮件订阅"

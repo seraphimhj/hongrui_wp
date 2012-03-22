@@ -1,0 +1,108 @@
+@charset "utf-8";
+body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td {
+	margin:0;
+	padding:0;
+}
+html, body {
+	height:100%;
+}
+body {
+	height:auto !important;
+	color:#666;
+	background-color: #E6EAE4;
+	font: 400 12px/150% Tahoma, Helvetica, Arial, sans-serif;
+}
+ol, ul {
+	list-style:none;
+}
+img {
+	border:0;
+}
+a img {
+	border:none;
+	table {
+	border-collapse:collapse;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight:700;
+}
+h1 {
+	font-size:20px;
+	line-height:28px;
+}
+h2 {
+	font-size:18px;
+	line-height:24px;
+}
+h3 {
+	font-size:16px;
+	line-height:20px;
+}
+h4 {
+	font-size:14px;
+	line-height:18px;
+}
+h5 {
+	font-size:12px;
+	line-height:16px;
+}
+h6 {
+	font-size:12px;
+	line-height:16px;
+	font-weight:400;
+}
+
+fieldset {
+	clear:both;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #989796;
+}
+legend {
+	font-weight: bold;
+	color: #989796;
+	padding: 10px;
+}
+.clear{ clear:both;}
+
+.block {
+	display:block;
+}
+.overflow {
+	overflow:hidden;
+}
+.textCenter {
+	text-align:center;
+}
+.pointer {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix {
+	zoom:1;
+	display: inline-block;
+	_height:1px;
+}
+* html .clearfix {
+	height: 0%;
+	line-height:0;
+}
+*+html .clearfix {
+	height: 0%;
+	line-height:0;
+}
+.clearfix {
+	display: block;
+}

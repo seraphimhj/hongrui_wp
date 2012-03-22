@@ -1,0 +1,48 @@
+BODY {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: helvetica,arial,sans-serif; BACKGROUND: url(images/error-bg.png) #ececec repeat-x; PADDING-TOP: 0px
+}
+A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.frame {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 703px
+}
+IMG.rtlogo {
+	POSITION: absolute; WIDTH: 355px; BACKGROUND: url(images/error-logo.png) no-repeat; HEIGHT: 95px; TOP: 0px; LEFT: 104px
+}
+.error-bg {
+	POSITION: absolute; WIDTH: 703px; HEIGHT: 354px; TOP: 157px; LEFT: 0px
+}
+.error-301 {
+	BACKGROUND: url(images/error-301.jpg) no-repeat
+}
+.error-400 {
+	BACKGROUND: url(images/error-400.jpg) no-repeat
+}
+.error-403 {
+	BACKGROUND: url(images/error-403.jpg) no-repeat
+}
+.error-404 {
+	BACKGROUND: url(images/error-404.jpg) no-repeat
+}
+.error-500 {
+	BACKGROUND: url(images/error-500.jpg) no-repeat
+}
+.error-505 {
+	BACKGROUND: url(images/error-505.jpg) no-repeat
+}
+.error-bg SPAN {
+	TEXT-ALIGN: left; MARGIN-TOP: 12px; DISPLAY: block; COLOR: #e83b05; MARGIN-LEFT: 210px; FONT-SIZE: 24px; MARGIN-RIGHT: 120px
+}
+.help-links {
+	POSITION: absolute; WIDTH: 100%; TOP: 500px; LEFT: 0px
+}
+DIV.title {
+	TEXT-ALIGN: center; WIDTH: 100%; COLOR: #333; FONT-SIZE: 12px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 20px 0px 0px 90px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	LIST-STYLE-TYPE: none; PADDING-RIGHT: 20px; FLOAT: left; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
